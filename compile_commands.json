@@ -1,4 +1,56 @@
 [{
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\NodoCola.hpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\NodoCola.hpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\Cola.hpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\Cola.hpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\NodoCola.cpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\NodoCola.cpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\Cola.cpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\Cola.cpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\main.cpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\main.cpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploColas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\NodoPila.hpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\NodoPila.hpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\NodoPila.cpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\NodoPila.cpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\Pila.hpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\Pila.hpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\Pila.cpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\Pila.cpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\main.cpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\main.cpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\EjemploPilas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13\\Persona.hpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13\\Persona.hpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13\\Persona.cpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13\\Persona.cpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13\\main.cpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo12\\main.cpp",
   "directory": "C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo12",
   "command": "clang++ -c C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo12\\main.cpp -o C:\\Users\\PEKIS\\Documents\\codelite\\entrega_de_ejemplos_sesion_1\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"

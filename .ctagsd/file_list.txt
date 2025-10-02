@@ -1,3 +1,16 @@
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\EjemploColas\NodoCola.hpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\EjemploColas\NodoCola.cpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\EjemploColas\Cola.hpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\EjemploColas\Cola.cpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\EjemploColas\main.cpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\EjemploPilas\NodoPila.cpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\EjemploPilas\Pila.cpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\EjemploPilas\Pila.hpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\EjemploPilas\NodoPila.hpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\EjemploPilas\main.cpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\Ejemplo13\Persona.cpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\Ejemplo13\Persona.hpp
+C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\Ejemplo13\main.cpp
 C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\Ejemplo12\main.cpp
 C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\ejemplo09\main.cpp
 C:\Users\PEKIS\Documents\codelite\entrega_de_ejemplos_sesion_1\Ejemplo07\main.cpp
